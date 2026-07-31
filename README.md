@@ -2,16 +2,16 @@
 
 ## 📜️ About Me
 
-- 🌐️ Go dev
+- 🌐️ Go developer
 - ⌨️ Terminal addict
 - 🎓️ Computer science student
 - 🚩 CTF player and cybersecurity hobbyist
 
 ## 📚️ Stuff I Know
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ## 🪄️ Stuff I Work With
 
